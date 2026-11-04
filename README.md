@@ -26,6 +26,8 @@ Using ESP32 and ESP-IDF framework with C/C++
   Repository: [line-follower](https://github.com/blfuentes/LineFollowerRobot)
 - Equili-bot-ista. Self-balancing robot.   
   Repository: [equili-bot-ista](https://github.com/blfuentes/Equili-bot-ista)
+- Orugri-sumo. Sumo bot
+  Repository: [orugri-sumo](https://github.com/blfuentes/orugri-sumo)
 - Plantosmart. Smart orchard   
   Repository: [planto-smart](https://github.com/blfuentes/PlantoSmart)
 - Mecanum-bot. Controlled quad bot with mecanum wheels   
