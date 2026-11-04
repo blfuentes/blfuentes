@@ -38,6 +38,6 @@ Sometimes I create some tools to make my life easier... In F#, C#, blazor, angul
 
 - MediaConverter. CLI tool using ffmpeg to convert media file formats   
   Repository: [media-converter](https://github.com/blfuentes/MediaConverter)
-- GuitarString tension calculator. WebApp to calculate tension of guitar strings
+- GuitarString tension calculator. WebApp to calculate tension of guitar strings   
   Repository: [guitar-string-tension-calculator](https://github.com/blfuentes/guitarstring-tension-calculator)
 
